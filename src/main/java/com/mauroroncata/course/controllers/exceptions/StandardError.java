@@ -1,4 +1,4 @@
-package com.mauroroncata.course.resources.exceptions;
+package com.mauroroncata.course.controllers.exceptions;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

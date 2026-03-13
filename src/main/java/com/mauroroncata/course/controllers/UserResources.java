@@ -1,11 +1,10 @@
-package com.mauroroncata.course.resources;
+package com.mauroroncata.course.controllers;
 
 import com.mauroroncata.course.entities.User;
 import com.mauroroncata.course.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.service.annotation.GetExchange;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import java.net.URI;
